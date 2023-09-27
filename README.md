@@ -1,2 +1,2 @@
-# flowrs-vis
-Data visualization for flowrs. 
+# flowrs-ai
+Modules related to artificial intelligence
